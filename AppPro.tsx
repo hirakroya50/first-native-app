@@ -15,6 +15,9 @@ function AppPro(): JSX.Element {
       <Text style={darkmode ? style.whiteText : style.darkText}>
         hirak hello app pro hirakworld new testttttt
       </Text>
+      <Text style={darkmode ? style.whiteText : style.darkText}>
+        amr bariii
+      </Text>
     </View>
   );
 }
